@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="funksioneleAnalise.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72337262"
+     inkscape:cx="397.44385"
+     inkscape:cy="561.95105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="3831"
+     inkscape:window-y="1067"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.334976"
+       y="13.533251"
+       id="text3026"><tspan
+         sodipodi:role="line"
+         id="tspan3024"
+         style="stroke-width:0.264583"
+         x="26.334976"
+         y="13.533251">Radio vliegtuig funksionele</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="26.334976"
+         y="26.762375"
+         id="tspan3028">analise</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-dasharray:1.05833, 0.529167"
+       id="rect7924"
+       width="51.206894"
+       height="23.043102"
+       x="44.623154"
+       y="55.230297" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.841129"
+       y="59.253693"
+       id="text9600"><tspan
+         sodipodi:role="line"
+         id="tspan9598"
+         style="stroke-width:0.264583"
+         x="50.841129"
+         y="59.253693">Vlugbeheer oor afstand</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="20.848522"
+       y="102.41379"
+       id="text16816"><tspan
+         sodipodi:role="line"
+         id="tspan16814"
+         style="stroke-width:0.264583"
+         x="20.848522"
+         y="102.41379">Radio beheer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.89655"
+       y="117.04433"
+       id="text18074"><tspan
+         sodipodi:role="line"
+         id="tspan18072"
+         style="stroke-width:0.264583"
+         x="122.89655"
+         y="117.04433">Lugraam</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="59.985222"
+       y="145.20813"
+       id="text22016"><tspan
+         sodipodi:role="line"
+         id="tspan22014"
+         style="stroke-width:0.264583"
+         x="59.985222"
+         y="145.20813">Vlugbeheer meganismes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.381771"
+       y="177.76108"
+       id="text24186"><tspan
+         sodipodi:role="line"
+         id="tspan24184"
+         style="stroke-width:0.264583"
+         x="34.381771"
+         y="177.76108">Batterykrag</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.63916"
+       y="198.24384"
+       id="text27862"><tspan
+         sodipodi:role="line"
+         id="tspan27860"
+         style="stroke-width:0.264583"
+         x="78.63916"
+         y="198.24384">Beheer servos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="75.34729"
+       y="207.75369"
+       id="text29714"><tspan
+         sodipodi:role="line"
+         id="tspan29712"
+         style="stroke-width:0.264583"
+         x="75.34729"
+         y="207.75369">Beheer motor</tspan></text>
+  </g>
+</svg>
