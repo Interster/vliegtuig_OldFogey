@@ -15,8 +15,24 @@ Wenk om die old Fogey planne op A4 te druk:
 
 To print "tiled" use Adobe Reader X and in the print dialog select "POSTER", select "Cut Marks" and make sure "Tile Scale" is 100%. Thenoverlap and tape as required (after trimming the top overlapping edge). 
 
-
 ## Voorgestelde hardeware
+
+
+
+| WEIGHT WITHOUT BATTERY: 13.3 oz (377 g)                      |
+| ------------------------------------------------------------ |
+| CENTER OF GRAVITY: 3 - 3.5 inches (76 - 89mm) from leading edge |
+| CONTROL SURFACE THROWS: 12 ̊ deflection (elevator/rudder) Expo 30% |
+| WINGSPAN: 37.75 inches (959mm)                               |
+| RECOMMENDED MOTOR: 24 g 1300 kv minimum                      |
+| RECOMMENDED PROP: 9 x 4.7                                    |
+| RECOMMENDED ESC: 10 - 18 amp                                 |
+| RECOMMENDED BATTERY: 500 - 1300 mAH 3s                       |
+| RECOMMENDED SERVOS: (2) 9 gram servos                        |
+
+
+
+
 
 ### Skroef
 
