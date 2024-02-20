@@ -19,16 +19,16 @@ To print "tiled" use Adobe Reader X and in the print dialog select "POSTER", sel
 
 
 
-| WEIGHT WITHOUT BATTERY: 13.3 oz (377 g)                      |
-| ------------------------------------------------------------ |
+| WEIGHT WITHOUT BATTERY: 13.3 oz (377 g)  |
+| ---------------------------------------- |
 | CENTER OF GRAVITY: 3 - 3.5 inches (76 - 89mm) from leading edge |
 | CONTROL SURFACE THROWS: 12 ̊ deflection (elevator/rudder) Expo 30% |
-| WINGSPAN: 37.75 inches (959mm)                               |
-| RECOMMENDED MOTOR: 24 g 1300 kv minimum                      |
-| RECOMMENDED PROP: 9 x 4.7                                    |
-| RECOMMENDED ESC: 10 - 18 amp                                 |
-| RECOMMENDED BATTERY: 500 - 1300 mAH 3s                       |
-| RECOMMENDED SERVOS: (2) 9 gram servos                        |
+| WINGSPAN: 37.75 inches (959mm)           |
+| RECOMMENDED MOTOR: 24 g 1300 kv minimum  |
+| RECOMMENDED PROP: 9 x 4.7                |
+| RECOMMENDED ESC: 10 - 18 amp             |
+| RECOMMENDED BATTERY: 500 - 1300 mAH 3s   |
+| RECOMMENDED SERVOS: (2) 9 gram servos    |
 
 
 
@@ -46,3 +46,58 @@ Spanning is 11.1Volt met 7.5A stroom.  Drywing is 80Watt.  Tipiese stukrag is 40
 ### Battery
 
 Gebruik 1300mAh battery wat 11.1V is.  Dit is 'n 3 sel battery.
+
+
+
+## Futaba hardeware
+
+Het 'n 6J transmitter
+
+Het volgende ontvangers of receivers:
+
+- R2106GF
+- R2006GS
+
+## Futaba met SBUS uitset na Windows joystick
+
+Futaba gebruik 'n SBUS protokol:
+
+
+
+Hier word die protokolle verduidelik:
+
+https://oscarliang.com/rc-protocols/
+
+
+
+As jy die transmitter met 'n Windows joystick wil doen, koop 'n SBUS receiver soos:
+
+https://futabausa.com/product/r2001sb/
+
+Dan installeer VJOY serial feeder:
+
+https://github.com/Cleric-K/vJoySerialFeeder
+
+installeer VJOY driver:
+
+https://sourceforge.net/projects/vjoystick/
+
+
+
+Dan kan jy die transmitter oorstuur na Windows as 'n joystick.
+
+
+
+## Maak 'n joystick met VJOY
+
+Maak 'n VJOY joystick met 'n Arduino en 'n paar resistors en stuur die data oor IBUS protokol en stel so 'n joystick op:
+
+https://github.com/Cleric-K/vJoySerialFeeder/blob/master/Docs/Arduino.md
+
+Dan stel VJOY feeder op om die kanale in te lees.
+
+Kan dit dan in enige vlugsimulator gebruik.
+
+Gebruik hierdie video as 'n gids:
+
+https://www.youtube.com/watch?v=_lLa6RrWfoQ
