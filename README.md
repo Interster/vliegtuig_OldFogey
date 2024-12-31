@@ -101,3 +101,12 @@ Kan dit dan in enige vlugsimulator gebruik.
 Gebruik hierdie video as 'n gids:
 
 https://www.youtube.com/watch?v=_lLa6RrWfoQ
+
+
+
+## Meet stukrag
+
+Dit is moontlik dat motor nie sterk genoeg is vir die massa van die Fogey nie.
+
+Maak 'n opstelling om stukrag te meet.  Dit is in /meetStukrag
+
