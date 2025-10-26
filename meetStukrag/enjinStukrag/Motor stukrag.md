@@ -2,6 +2,8 @@
 
 Meet stukrag met die volgende opstelling.
 
+Hier is die [[opsomming van stukrag video]].
+
 Dit is nodig om te weet of die motor dalk te min krag gee om die Fogey gestadigd met reguitvlug kan laat vlieg.
 
 
@@ -51,7 +53,7 @@ Berekeninge is in MassaBalansOldFogey.ods.
 
 Die resultaat van die berekeninge is as volg.  Die grafiek van motor stukrag teenoor tyd is sigbaar in die volgende grafiek.  Dit is die verwerkte resultate.  Dit wys dat die stukrag ongeveer 270gram is.  Die motor loop ongeveer 4 minute op die battery.
 
-![[Pasted image 20251018112647.png]]
+![[MotorStukragTeenTyd.png]]
 
 ## Werksverrigting berekening
 
